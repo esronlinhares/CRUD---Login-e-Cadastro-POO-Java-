@@ -2,14 +2,7 @@ package dao;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
-import java.util.ArrayList;
-
-import javax.swing.JTable;
-import javax.swing.table.DefaultTableModel;
-
 import com.mysql.jdbc.PreparedStatement;
-import com.mysql.jdbc.ResultSetMetaData;
-
 import model.Usuario;
 
 public class UsuarioDAO {
